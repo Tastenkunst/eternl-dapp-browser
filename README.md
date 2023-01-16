@@ -1,3 +1,5 @@
+### Note: You don't need the server on your branch
+
 # Eternl DApp Browser Entries
 A repository to aggregate third-party DApp Browser entries.
 
