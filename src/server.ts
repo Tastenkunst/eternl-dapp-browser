@@ -9,32 +9,6 @@ const port                    = Number(process.env.PORT || 3000);
 
 app.enable('trust proxy')
 
-// redirect to https on production
-app.use((req, res, next) => {
-
-    if(process.env.NODE_ENV === 'production') {
-
-        if(req.secure) {
-
-            if(req.headers.host && req.headers.host.search(/^www/) !== -1) {
-
-                res.redirect('https://' + req.url)
-
-            } else {
-
-                next()
-            }
-
-        } else {
-
-            res.redirect('https://' + req.headers.host + req.url)
-        }
-    } else {
-
-        next()
-    }
-})
-
 app.use(cors({ maxAge: 86400 }))
 
 if (process.env.NODE_ENV === 'production') { app.use(helmet()) }
