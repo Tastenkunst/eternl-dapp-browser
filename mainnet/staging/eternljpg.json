@@ -1,8 +1,8 @@
 {
-  "label":       "Eternl JPG production",
+  "label":       "Eternl JPG staging",
   "caption":     "Eternl JPG",
   "categories":  [ "marketplace" ],
   "description": "A longer description of Eternl JGP.",
   "url":         "https://www.jpg.store/",
-  "image":       "https://images.de-0.eternl.art/mainnet/production/eternljpg.jpg"
+  "image":       "https://images.us-0.eternl.art/mainnet/production/eternljpg.jpg"
 }
