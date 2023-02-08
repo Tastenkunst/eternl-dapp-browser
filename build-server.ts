@@ -1,8 +1,6 @@
 import * as fs from 'fs-extra';
 import * as childProcess from 'child_process';
 
-import logger from 'jet-logger';
-
 (async () => {
 
   try {
@@ -15,7 +13,7 @@ import logger from 'jet-logger';
 
   } catch (err) {
 
-    logger.err(err);
+    console.error(err);
   }
 
 })();
@@ -52,12 +50,12 @@ function exec(cmd: string, loc: string): Promise<void> {
 
       if (!!stdout) {
 
-        logger.info(stdout);
+        console.log(stdout);
       }
 
       if (!!stderr) {
 
-        logger.warn(stderr);
+        console.warn(stderr);
       }
 
       return (!!err ? rej(err) : res());

@@ -1,8 +1,16 @@
+import { init }               from './tracer'
+
+if(process.env.NODE_ENV === 'production' && process.env.SIGNOZ_TRACES_URL) {
+
+    init(process.env.SIGNOZ_TRACES_URL)
+}
+
 import express                from 'express'
 import cors                   from 'cors'
 import helmet                 from 'helmet'
 import compression            from 'compression'
 import path                   from 'path'
+import logger                 from './Logger'
 
 const app                     = express()
 const port                    = Number(process.env.PORT || 3000);
@@ -22,7 +30,7 @@ app.get('*', (req, res) => {
 });
 
 const server = app.listen(port, () => {
-    console.log('Express server started on port: ' + port);
+    logger.info('Express server started on port: ' + port);
 });
 
 server.keepAliveTimeout = 61 * 1000;
