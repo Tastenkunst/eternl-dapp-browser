@@ -1,8 +1,0 @@
-{
-  "label":       "Eternl JPG production",
-  "caption":     "Eternl JPG",
-  "categories":  [ "marketplace" ],
-  "description": "A longer description of Eternl JGP.",
-  "url":         "https://www.jpg.store/",
-  "image":       "http://10.10.10.21:13001/mainnet/production/eternljpg.jpg"
-}
