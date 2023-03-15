@@ -1,0 +1,8 @@
+{
+  "label":       "Shrooms ATM",
+  "caption":     "Shrooms ATM",
+  "categories":  [ "mint" ],
+  "description": "",
+  "url":         "https://shrooms-atm.adalink.io/",
+  "image":       "https://api.eternl.io/images/shroomsatm.jpg"
+}

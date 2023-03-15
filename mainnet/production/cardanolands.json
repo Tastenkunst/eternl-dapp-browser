@@ -1,0 +1,8 @@
+{
+  "label":       "CardanoLands",
+  "caption":     "CardanoLands",
+  "categories":  [ "defi" ],
+  "description": "",
+  "url":         "https://dapp.cardanolands.com/",
+  "image":       "https://api.eternl.io/images/cardanolands.jpg"
+}

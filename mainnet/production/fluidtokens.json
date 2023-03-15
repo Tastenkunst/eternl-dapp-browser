@@ -1,0 +1,8 @@
+{
+  "label":       "FluidTokens",
+  "caption":     "FluidTokens",
+  "categories":  [ "defi" ],
+  "description": "",
+  "url":         "https://app.fluidtokens.com/",
+  "image":       "https://api.eternl.io/images/FluidTokensEternl.png"
+}

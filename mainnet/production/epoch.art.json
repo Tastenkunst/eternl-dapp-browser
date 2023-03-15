@@ -1,0 +1,8 @@
+{
+  "label":       "Epoch.Art",
+  "caption":     "Epoch.Art",
+  "categories":  [ "marketplace" ],
+  "description": "",
+  "url":         "https://epoch.art/",
+  "image":       "https://api.eternl.io/images/epochart_plat.jpg"
+}

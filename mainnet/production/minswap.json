@@ -1,0 +1,8 @@
+{
+  "label":       "MinSwap",
+  "caption":     "MinSwap",
+  "categories":  [ "dex" ],
+  "description": "",
+  "url":         "https://app.minswap.org/",
+  "image":       "https://api.eternl.io/images/minswap_plat.jpg"
+}

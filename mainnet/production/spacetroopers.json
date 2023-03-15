@@ -1,0 +1,8 @@
+{
+  "label":       "SpaceTroopers",
+  "caption":     "SpaceTroopers",
+  "categories":  [ "game" ],
+  "description": "",
+  "url":         "https://spacetroopers.org/arenabeta",
+  "image":       "https://api.eternl.io/images/spacetroopers.jpg"
+}

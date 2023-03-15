@@ -1,0 +1,8 @@
+{
+  "label":       "CNFT Jungle",
+  "caption":     "CNFT Jungle",
+  "categories":  [ "marketplace" ],
+  "description": "",
+  "url":         "https://www.cnftjungle.io/",
+  "image":       "https://api.eternl.io/images/cnftjungle_plat.png"
+}

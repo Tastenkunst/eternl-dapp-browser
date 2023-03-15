@@ -1,0 +1,8 @@
+{
+  "label":       "Clay Invaders",
+  "caption":     "Clay Invaders",
+  "categories":  [ "mint" ],
+  "description": "",
+  "url":         "https://app.clayinvaders.art",
+  "image":       "https://api.eternl.io/images/clayinvaders.jpg"
+}
