@@ -1,0 +1,8 @@
+{
+  "label":       "Marsbirds",
+  "caption":     "Marsbirds",
+  "categories":  [ "staking" ],
+  "description": "",
+  "url":         "https://app.marsbirds.art/",
+  "image":       "https://api.eternl.io/images/marsbirds.jpg"
+}

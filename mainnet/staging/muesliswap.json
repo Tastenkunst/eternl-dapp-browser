@@ -1,0 +1,8 @@
+{
+  "label":       "MuesliSwap",
+  "caption":     "MuesliSwap",
+  "categories":  [ "dex" ],
+  "description": "",
+  "url":         "https://beta.muesliswap.com/internal/dapp-connector-bridge/",
+  "image":       "https://api.eternl.io/images/muesliswap.jpg"
+}

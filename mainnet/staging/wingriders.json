@@ -1,0 +1,8 @@
+{
+  "label":       "WingRiders",
+  "caption":     "WingRiders",
+  "categories":  [ "dex" ],
+  "description": "",
+  "url":         "https://app.mainnet.staging.wingriders.com/dapp",
+  "image":       "https://api.eternl.io/images/wingriders.jpg"
+}

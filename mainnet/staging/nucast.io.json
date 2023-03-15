@@ -1,0 +1,8 @@
+{
+  "label":       "Nucast.io",
+  "caption":     "Nucast.io",
+  "categories":  [ "streaming" ],
+  "description": "",
+  "url":         "https://app.nucast.io/",
+  "image":       "https://api.eternl.io/images/nucast.jpg"
+}

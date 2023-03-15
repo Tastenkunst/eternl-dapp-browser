@@ -1,0 +1,8 @@
+{
+  "label":       "SundaeSwap",
+  "caption":     "SundaeSwap",
+  "categories":  [ "dex" ],
+  "description": "",
+  "url":         "https://eternl.testnet.sundaeswap.finance/",
+  "image":       "https://api.eternl.io/images/sundae_plat.jpg"
+}

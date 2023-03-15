@@ -1,0 +1,8 @@
+{
+  "label":       "Optim Finance",
+  "caption":     "Optim Finance",
+  "categories":  [ "defi" ],
+  "description": "",
+  "url":         "https://app.optim.finance/",
+  "image":       "https://api.eternl.io/images/optimfinance.jpg"
+}
