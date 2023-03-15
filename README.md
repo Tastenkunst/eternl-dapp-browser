@@ -23,4 +23,4 @@ Each project will be given access to their own branch to push entries to.
   "image":        "string  // externally hosted jpg < 200kb; images with more than 500kb will be rejected. See dimensions below for optimal image."
 }
 ```
-![dapp-guidelines](https://user-images.githubusercontent.com/4470326/221276942-66ce13ac-3b16-45a9-ae0b-8da6f0547ed6.png)
+![DApp example image]![dapp-guidelines](https://user-images.githubusercontent.com/4470326/221276942-66ce13ac-3b16-45a9-ae0b-8da6f0547ed6.png)
