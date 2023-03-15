@@ -3,6 +3,6 @@
   "caption":     "WingRiders",
   "categories":  [ "dex" ],
   "description": "",
-  "url":         "https://app.mainnet.staging.wingriders.com/dapp",
+  "url":         "https://app.wingriders.com/dapp",
   "image":       "https://api.eternl.io/images/wingriders.jpg"
 }
