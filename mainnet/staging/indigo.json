@@ -4,5 +4,6 @@
   "categories":  [ "defi" ],
   "description": "",
   "url":         "https://app.indigoprotocol.io/",
-  "image":       "https://api.eternl.io/images/indigo_prom.jpg"
+  "image":       "https://api.eternl.io/images/indigo_prom.jpg",
+  "isPromoted":  true,
 }
