@@ -22,7 +22,8 @@ app.use(cors({ maxAge: 86400 }))
 if (process.env.NODE_ENV === 'production') { app.use(helmet()) }
 
 app.use(compression({ threshold: 0 }))
-app.use(express.static(path.join(__dirname, '../')))
+app.use('example',express.static(path.join(__dirname, '../example')))
+app.use('mainnet',express.static(path.join(__dirname, '../mainnet')))
 
 app.get('*', (req, res) => {
 
