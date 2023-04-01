@@ -1,8 +1,8 @@
 {
   "label":       "Mutant Labs",
   "caption":     "Mutant Labs",
-  "categories":  [ "staking" ],
+  "categories":  [ "raffle", "staking" ],
   "description": "",
   "url":         "https://labs.mutant-nft.com/",
-  "image":       "https://api.eternl.io/images/labsbymutants.jpg"
+  "image":       "https://mutants-assets.fra1.cdn.digitaloceanspaces.com/eternl-banners%2Flabs.png"
 }
