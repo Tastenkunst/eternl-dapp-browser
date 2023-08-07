@@ -23,4 +23,5 @@ Each project will be given access to their own branch to push entries to.
   "image":        "string  // externally hosted jpg < 200kb; images with more than 500kb will be rejected. See dimensions below for optimal image."
 }
 ```
-![DApp example image](https://github.com/Tastenkunst/eternl-dapp-browser/blob/main/example/dapp_image.png)
+![image](https://github.com/Tastenkunst/eternl-dapp-browser/assets/4470326/cd0d5d3d-b3f5-4b1e-873f-d690862f7c44)
+
