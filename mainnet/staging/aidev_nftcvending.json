@@ -1,8 +1,0 @@
-{
-  "label":       "NFTC Vending",
-  "caption":     "NFTC Vending",
-  "categories":  [ "aidev" ],
-  "description": "",
-  "url":         "https://nftc-vending-machine.aidev-cardano.com/",
-  "image":       "https://api.eternl.io/images/nftcvending.jpg"
-}
