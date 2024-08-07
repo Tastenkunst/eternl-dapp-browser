@@ -1,0 +1,8 @@
+{
+  "label":       "CNFTTools $TOOL Portal",
+  "caption":     "CNFTTools",
+  "categories":  [ "other" ],
+  "description": "",
+  "url":         "https://wallet.cnft.tools/eternl",
+  "image":       "https://wallet.cnft.tools/images/eternl-ctools.jpg"
+}
