@@ -1,0 +1,8 @@
+{
+  "label":       "Tempo Vote",
+  "caption":     "Tempo Vote",
+  "categories":  [ "governance" ],
+  "description": "",
+  "url":         "https://tempo.vote/",
+  "image":       "https://raw.githubusercontent.com/thuchintran/tempo/refs/heads/main/Tempo-banner.png"
+}
