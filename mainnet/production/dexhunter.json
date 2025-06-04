@@ -1,0 +1,24 @@
+{
+  "categoryList":             [ "DeFi" ],
+  "keywords":                 [ "DEX Aggregator", "Aggregator", "Swap" ],
+  "trigger":                  [ "dexhunter" ],
+
+  "url":                      "https://eternl.dexhunter.io",
+  "urlBridge":                "https://eternl.dexhunter.io",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_dexhunter.jpg",
+    "banner":                 "https://storage.googleapis.com/dexhunter-images/public/eternldappbrowserdh.jpg"
+  },
+
+  "label":                    "DexHunter Aggregator",
+  "caption":                  "",
+  "summary":                  "",
+  "description":              "",
+
+  "link": {
+    "x":                      "https://x.com/dexhunterio",
+    "discord":                "https://discord.com/invite/TjS72s84tV",
+    "medium":                 "https://dexhunterio.medium.com/"
+  }
+}

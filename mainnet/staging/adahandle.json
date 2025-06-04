@@ -1,0 +1,33 @@
+{
+  "order":                    0,
+
+  "categoryList":             [ "Social", "Mints" ],
+  "keywords":                 [ "Mint", "NFT", "Social" ],
+  "trigger":                  [ "handle", "adahandle" ],
+
+  "url":                      "https://handle.me",
+  "urlBridge":                "https://handle.me",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/adahandle-summer.png",
+    "banner":                 "https://public.koralabs.io/marketing/partners/eternl/banner.jpg"
+  },
+
+  "label":                    "ADA Handle",
+  "caption":                  "ADA Handle, the number 1 naming protocol on Cardano.",
+  "summary":                  "ADA Handle is an NFT-based solution on the Cardano blockchain that provides custom, human-readable wallet addresses. It simplifies transactions by replacing complex addresses with unique, user-owned identifiers secured on-chain using Cardano's native asset standard and eUTXO model.",
+  "description":              "ADA Handle is an innovative feature built on the Cardano blockchain that leverages the power of non-fungible tokens (NFTs) to create custom, human-readable wallet addresses. Launched as a way to enhance user experience and accessibility within the Cardano ecosystem, ADA Handle allows users to replace the typically long and complex cryptographic wallet addresses (e.g., a string of 50+ random characters) with short, memorable, and personalized identifiers, such as \"$johndoe\" or \"$cryptoqueen.\" These custom handles are minted as NFTs, making them unique, verifiable, and fully owned by the user on the blockchain. 258k+ Handles have been minted and over 65k holders.",
+
+  "link": {
+    "x":                      "https://x.com/adahandle",
+    "discord":                "https://discord.gg/sYkFgRQFwG"
+  },
+
+  "promotion": {
+    "order":                  1,
+    "headline":               "Limited Time Offer",
+    "text":                   "Get 10% off on all trading fees for the next 3 months.",
+    "start":                  "2025-01-01",
+    "ends":                   "2025-04-01"
+  }
+}

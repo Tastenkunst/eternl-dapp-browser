@@ -1,0 +1,23 @@
+{
+  "label":                    "TapTools",
+  "caption":                  "Cardano Portfolio, Charts, Trade & DeFi Analytics",
+  "summary":                  "Cardano Trading: Swaps | Token Charts | Wallet Tracking",
+  "description":              "Explore the top Cardano analytics platform: detailed insights on portfolios, trade history, DeFi, NFTs, and wallets. Your essential tool for monitoring and analyzing ADA blockchain metrics.",
+
+  "categoryList":             [ "Tools" ],
+  "trigger":                  [ "taptools", "tt", "tap", "tappy" ],
+
+  "url":                      "https://www.taptools.io/",
+  "urlBridge":                "https://www.taptools.io/",
+
+  "image": {
+    "icon":                   "https://taptools-public.s3.us-east-1.amazonaws.com/images/TapTools_Logo-Dark.png",
+    "banner":                 "https://taptools-public.s3.us-east-1.amazonaws.com/images/tt-dapp-banner.jpg"
+  },
+
+  "link": {
+    "x":                      "https://x.com/taptools",
+    "discord":                "https://discord.com/invite/fmfDSDnVmq",
+    "medium":                 "https://medium.com/@TapInWithTapTools"
+  }
+}

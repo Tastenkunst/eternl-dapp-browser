@@ -1,0 +1,22 @@
+{
+  "categoryList":             [ "Collectibles" ],
+  "keywords":                 [ "Marketplace", "Game", "NFT", "Collectibles" ],
+
+  "url":                      "https://market.chibidangoheroes.com",
+  "urlBridge":                "https://market.chibidangoheroes.com",
+
+  "image": {
+    "icon":                   "https://chibidangoheroes.com/eternl_banner.jpg",
+    "banner":                 "https://chibidangoheroes.com/eternl_banner.jpg"
+  },
+
+  "label":                    "Chibidango Heroes",
+  "caption":                  "",
+  "summary":                  "",
+  "description":              "",
+
+  "link": {
+    "x":                      "https://twitter.com/ChibidangoNFT",
+    "discord":                "https://discord.com/invite/chibidangoheroes"
+  }
+}

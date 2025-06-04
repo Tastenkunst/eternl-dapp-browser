@@ -1,0 +1,25 @@
+{
+  "categoryList":             [ "DeFi" ],
+  "keywords":                 [ "NFT", "Marketplace" ],
+  "trigger":                  [ "fluid", "fluidtoken" ],
+
+  "url":                      "https://app.fluidtokens.com",
+  "urlBridge":                "https://app.fluidtokens.com",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_fluid.jpg",
+    "banner":                 "https://media.fluidtokens.com/misc/FluidTokensEternl2.jpg"
+  },
+
+  "label":                    "FluidTokens",
+  "caption":                  "Permissionless Lending",
+  "summary":                  "Revolutionizing Permissionless DeFi With EUTXO Chains",
+  "description":              "FluidTokens kicked off its journey on the Cardano blockchain as a DeFi platform, presenting a diverse range of services like lending, borrowing, staking, and an array of other inventive products including rental options, boosted stake features, and more.",
+
+  "link": {
+    "x":                      "https://x.com/FluidTokens",
+    "discord":                "https://discord.gg/kyyCw4h98B",
+    "github":                 "https://github.com/fluidtokens",
+    "linkedin":               "https://www.linkedin.com/company/fluidtokens"
+  }
+}

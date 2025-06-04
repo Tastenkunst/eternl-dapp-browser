@@ -1,0 +1,9 @@
+{
+  "label":                    "Liqwid Finance v2",
+  "caption":                  "Liqwid Finance v2",
+  "categoryList":             [ "DeFi" ],
+  "description":              "",
+  "url":                      "https://v2.liqwid.finance",
+  "urlBridge":                "https://v2.liqwid.finance",
+  "image":                    "/images/dapp/256_156_squared/256x256_dapp_liquid.jpg"
+}

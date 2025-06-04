@@ -1,0 +1,17 @@
+{
+  "categoryList":             [ "Raffle" ],
+  "keywords":                 [ "SPO", "Raffle" ],
+
+  "url":                      "https://www.easy1staking.com",
+  "urlBridge":                "https://www.easy1staking.com",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_easystake1.jpg",
+    "banner":                 "https://www.easy1staking.com/easy1staking.jpg"
+  },
+
+  "label":                    "Easy1 Staking",
+  "caption":                  "EASY1 Stake Pool dApp & Website.",
+  "summary":                  "",
+  "description":              ""
+}

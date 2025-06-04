@@ -1,0 +1,24 @@
+{
+  "categoryList":             [ "Collectibles" ],
+  "keywords":                 [ "Game", "NFT", "Collectibles" ],
+
+  "url":                      "https://dapp.cardanolands.com",
+  "urlBridge":                "https://dapp.cardanolands.com",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_cardanolands.jpg",
+    "banner":                 "https://api.eternl.io/images/cardanolands.jpg"
+  },
+
+  "label":                    "CardanoLands",
+  "caption":                  "",
+  "summary":                  "",
+  "description":              "",
+
+  "link": {
+    "x":                      "https://twitter.com/cardanolands",
+    "discord":                "https://discord.com/invite/cardanolands",
+    "youtube":                "https://www.youtube.com/@CardanoLandsOfficial",
+    "medium":                 "https://medium.com/@CardanoLands"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "categoryList":             [ "DeFi" ],
+  "keywords":                 [ "Synthetic Assets" ],
+  "trigger":                  [ "indigo" ],
+
+  "url":                      "https://app.indigoprotocol.io",
+  "urlBridge":                "https://app.indigoprotocol.io",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_indigo.jpg",
+    "banner":                 "https://api.eternl.io/images/indigo_prom.jpg"
+  },
+
+  "label":                    "Indigo Protocol",
+  "caption":                  "",
+  "summary":                  "The Indigo Protocol (INDY) is a decentralized synthetic assets protocol built on the Cardano blockchain. It allows users to mint and trade synthetic assets, such as iUSD, iBTC, and iETH, which mirror the value of real-world assets like the US dollar, Bitcoin, and Ethereum, respectively.",
+  "description":              "",
+
+  "link": {
+    "x":                      "https://x.com/Indigo_protocol",
+    "telegram":               "https://t.me/indigo_protocol",
+    "discord":                "https://discord.com/invite/gVqDRNg7VH",
+    "medium":                 "https://indigoprotocol1.medium.com/",
+    "reddit":                 "https://www.reddit.com/r/indigoprotocol/"
+  }
+}

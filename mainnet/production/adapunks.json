@@ -1,0 +1,22 @@
+{
+  "categoryList":             [ "Collectibles" ],
+  "keywords":                 [ "Marketplace" ],
+
+  "url":                      "https://adapunks.io",
+  "urlBridge":                "https://adapunks.io",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_adapunks.jpg",
+    "banner":                 "https://adapunks.io/eternl_banner.jpg"
+  },
+
+  "label":                    "ADAPunks Marketplace",
+  "caption":                  "",
+  "summary":                  "",
+  "description":              "",
+
+  "link": {
+    "x":                      "https://x.com/adapunksnfts",
+    "discord":                "https://discord.gg/WCEhPZT5aF"
+  }
+}

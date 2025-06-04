@@ -1,0 +1,32 @@
+{
+  "order":                    1,
+  "categoryList":             [ "DeFi" ],
+  "keywords":                 [ "Aggregator", "DeFi", "Swap" ],
+  "trigger":                  [ "steelswap" ],
+
+  "url":                      "https://steelswap.io",
+  "urlBridge":                "https://steelswap.io",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_steelswap.jpg",
+    "banner":                 "https://steelswap.io/dapp-browser.jpg"
+  },
+
+  "label":                    "SteelSwap DEX Aggregator",
+  "caption":                  "Refining swap outputs.",
+  "summary":                  "Refining swap outputs. Forging Cardano DeFi mastery.",
+  "description":              "Refining swap outputs. Forging Cardano DeFi mastery.",
+
+  "link": {
+    "x":                      "https://x.com/SteelSwap",
+    "discord":                "https://discord.gg/7Kg3MXkveb"
+  },
+
+  "promotion": {
+    "order":                  2,
+    "headline":               "Limited Time Offer",
+    "text":                   "Get 10% off on all trading fees for the next 3 months.",
+    "start":                  "2025-01-01",
+    "ends":                   "2025-04-01"
+  }
+}

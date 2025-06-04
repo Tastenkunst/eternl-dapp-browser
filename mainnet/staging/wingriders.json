@@ -1,0 +1,22 @@
+{
+  "categoryList":             [ "DeFi" ],
+  "keywords":                 [ "DeFi" ],
+
+  "url":                      "https://app.wingriders.com/dapp",
+  "urlBridge":                "https://app.wingriders.com/dapp",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_wingriders.jpg",
+    "banner":                 "https://api.eternl.io/images/wingriders.jpg"
+  },
+
+  "label":                    "WingRiders",
+  "caption":                  "",
+  "summary":                  "",
+  "description":              "",
+
+  "link": {
+    "x":                      "https://x.com/wingriderscom",
+    "linktree":               "https://linktr.ee/wingriders"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "categoryList":             [ "DeFi" ],
+  "keywords":                 [ "MinSwap", "DEX", "Decentralized Exchange", "DeFi", "Yield Farming" ],
+  "trigger":                  [ "minswap", "min" ],
+
+  "extensions":               [ { "cip": 30 }, { "cip": 95 } ],
+
+  "url":                      "https://testnet-preprod.minswap.org",
+  "urlBridge":                "https://testnet-preprod.minswap.org",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_minswap.jpg",
+    "banner":                 "https://asset-logos.minswap.org/eternl-banner.jpg"
+  },
+
+  "label":                    "MinSwap",
+  "caption":                  "Where the community trades on Cardano.",
+  "summary":                  "MinSwap is a decentralized exchange on Cardano.",
+  "description":              "MinSwap is a decentralized exchange on Cardano. It is a community-driven project that aims to provide a safe and secure platform for users to trade their tokens.",
+
+  "link": {
+    "x":                      "https://x.com/MinswapDEX",
+    "discord":                "https://discord.com/invite/minswap",
+    "reddit":                 "https://www.reddit.com/r/MinSwap",
+    "telegram":               "https://t.me/MinswapMafia",
+    "github":                 "https://github.com/minswap",
+    "medium":                 "https://minswap-labs.medium.com",
+    "forum":                  "https://forum.minswap.org"
+  },
+
+  "promotion": {
+    "order":                  0,
+    "headline":               "Limited Time Offer",
+    "text":                   "Get 10% off on all trading fees for the next 3 months.",
+    "start":                  "2025-01-01",
+    "ends":                   "2025-04-01"
+  }
+}

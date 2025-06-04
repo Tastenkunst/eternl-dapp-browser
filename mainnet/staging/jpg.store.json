@@ -1,0 +1,24 @@
+{
+  "categoryList":             [ "Collectibles" ],
+  "keywords":                 [ "NFT", "Marketplace" ],
+  "trigger":                  [ "jpg", "jpgstore" ],
+
+  "url":                      "https://www.jpg.store",
+  "urlBridge":                "https://www.jpg.store",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_jpgstore.jpg",
+    "banner":                 "https://static.jpgstoreapis.com/photos/jpg_banner.png"
+  },
+
+  "label":                    "jpg.store",
+  "caption":                  "The first NFT marketplace on Cardano.",
+  "summary":                  "jpg.store is a decentralized NFT marketplace on Cardano.",
+  "description":              "jpg.store is a decentralized NFT marketplace on Cardano. It is a community-driven project that aims to provide a safe and secure platform for users to trade their tokens.",
+
+  "link": {
+    "x":                      "https://x.com/jpgstorenft",
+    "discord":                "https://discord.com/invite/jpgstorenft",
+    "forum":                  "https://help.jpg.store/en/"
+  }
+}

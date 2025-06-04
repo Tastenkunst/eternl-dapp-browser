@@ -1,0 +1,9 @@
+{
+  "label":                    "ADA Elementz",
+  "caption":                  "ADA Elementz",
+  "categoryList":             [ "Mints", "Other" ],
+  "description":              "",
+  "url":                      "https://elementz-fountain.aidev-cardano.com",
+  "urlBridge":                "https://elementz-fountain.aidev-cardano.com",
+  "image":                    "/images/dapp/256_156_squared/256x256_dapp_adaelements.jpg"
+}

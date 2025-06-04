@@ -1,0 +1,23 @@
+{
+  "categoryList":             [ "Tools" ],
+  "keywords":                 [ "Tools" ],
+
+  "url":                      "https://wallet.cnft.tools",
+  "urlBridge":                "https://wallet.cnft.tools/eternl",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_cnft.jpg",
+    "banner":                 "https://wallet.cnft.tools/images/eternl-ctools.jpg"
+  },
+
+  "label":                    "CNFTTools $TOOL Portal",
+  "caption":                  "",
+  "summary":                  "",
+  "description":              "",
+
+  "link": {
+    "x":                      "https://x.com/cnfttools",
+    "discord":                "https://discord.com/invite/cnfttools",
+    "youtube":                "https://www.youtube.com/channel/UCwtaT1v2iUqCuLAIrzgBzeQ"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categoryList":             [ "DeFi" ],
+  "keywords":                 [ "DeFi", "Aggregator", "Yield", "Lending" ],
+
+  "url":                      "https://app.danogo.io/?wallet=eternl",
+  "urlBridge":                "https://app.danogo.io/?wallet=eternl",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_danogo.jpg",
+    "banner":                 "https://raw.githubusercontent.com/Danogo2023/resources/refs/heads/main/images/danogo_eternl_banner.jpg"
+  },
+
+  "label":                    "Danogo Yield Aggregator",
+  "caption":                  "",
+  "summary":                  "",
+  "description":              "",
+
+  "link": {
+    "discord":                "https://discord.com/invite/vDMRZBJtTy"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "categoryList":             [ "Collectibles" ],
+  "keywords":                 [ "NFT", "Marketplace" ],
+  "trigger":                  [ "wayup" ],
+
+  "url":                      "https://www.wayup.io",
+  "urlBridge":                "https://www.wayup.io",
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_wayup.jpg",
+    "banner":                 "https://ik.imagekit.io/pizzli/CMS/production/sites/321/Wayupbanner.png"
+  },
+
+  "label":                    "Wayup",
+  "caption":                  "Marketplace Aggregation",
+  "summary":                  "We host listings from other marketplaces with 0 added fees",
+  "description":              "Wayup looks to change the game, by providing a central hub for all essential NFT tools and features. We take pride in the foundational layer that Wayup is built on, boasting an extremely efficient and fast Indexer. Wayup is built by collectors, for collectors.",
+
+  "link": {
+    "x":                      "https://x.com/wayupio",
+    "discord":                "https://discord.gg/74pNJRyHj9"
+  }
+}

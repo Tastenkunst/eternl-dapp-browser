@@ -1,0 +1,10 @@
+{
+  "label":                    "Optim Finance",
+  "caption":                  "Optim Finance",
+  "categoryList":             [ "DeFi" ],
+  "trigger":                  [ "optim" ],
+  "description":              "",
+  "url":                      "https://app.optim.finance",
+  "urlBridge":                "https://app.optim.finance",
+  "image":                    "/images/dapp/256_156_squared/256x256_dapp_optim.jpg"
+}
