@@ -1,8 +1,0 @@
-{
-  "label":       "SteelSwap DEX Aggregator",
-  "caption":     "SteelSwap DEX Aggregator",
-  "categories":  [ "dex" ],
-  "description": "",
-  "url":         "https://steelswap.io",
-  "image":       "https://steelswap.io/dapp-browser.jpg"
-}

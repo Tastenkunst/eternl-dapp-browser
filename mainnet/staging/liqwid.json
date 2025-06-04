@@ -1,8 +1,0 @@
-{
-  "label":       "Liqwid Finance",
-  "caption":     "Liqwid Finance",
-  "categories":  [ "defi" ],
-  "description": "",
-  "url":         "https://v1.liqwid.finance/",
-  "image":       "https://liqwid-public.s3.us-west-2.amazonaws.com/eternl-banner.png"
-}
