@@ -1,9 +1,29 @@
 {
-  "label":                    "Liqwid Finance v2",
-  "caption":                  "Liqwid Finance v2",
+  "order":                    0,
+
   "categoryList":             [ "DeFi" ],
-  "description":              "",
+  "keywords":                 [ "Mint", "NFT", "Social" ],
+  "trigger":                  [ "handle", "adahandle" ],
+
   "url":                      "https://v2.liqwid.finance",
   "urlBridge":                "https://v2.liqwid.finance",
-  "image":                    "/images/dapp/256_156_squared/256x256_dapp_liquid.jpg"
+
+  "image": {
+    "icon":                   "/images/dapp/256_156_squared/256x256_dapp_liquid.jpg"
+  },
+
+  "label":                    "Liqwid Finance v2",
+  "caption":                  "Liqwid Finance v2",
+  "summary":                  "Lending and borrowing protocol on Cardano.",
+  "description":              "Liqwid is a non-custodial liquidity market protocol for lending and borrowing on Cardano, offering fast, affordable, and transparent liquidity solutions.\nUsers can supply assets to earn yield and also borrow against their collateral while still earning interest on it.",
+
+  "link": {
+    "x":                      "https://x.com/liqwidfinance",
+    "discord":                "https://discord.gg/PZ3GUWamY8",
+    "forum":                  "https://gov.liqwid.finance/",
+    "website":                "https://liqwid.finance/",
+    "github":                 "https://github.com/Liqwid-Labs",
+    "documentation":          "https://liqwid-labs.gitbook.io/"
+  }
+
 }
