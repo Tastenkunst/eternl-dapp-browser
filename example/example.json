@@ -1,7 +1,37 @@
 {
-  "label":       "My Project",
-  "caption":     "My awesome project.",
-  "description": "A longer description of my project",
-  "url":         "https://foo.bar/en/",
-  "image":       "https://foo.bar/en/images/myprojectid.jpg"
+  "order":                    0,
+
+  "categoryList":             [ "Category", "Names", "Here" ],
+  "keywords":                 [ "Search", "Keywords", "Here" ],
+  "trigger":                  [ "protocol", "shorthand" ],
+
+  "url":                      "dapp url",
+  "urlBridge":                "Eternl specific entrypoint if needed, otherwise copy url",
+
+  "image": {
+    "icon":                   "Eternl-hosted icon, to be provided in team ticket",
+    "banner":                 "Optional banner for promotional spots"
+  },
+
+  "label":                    "Name",
+  "caption":                  "Caption",
+  "summary":                  "A short summary",
+  "description":              "A longer form description",
+
+  "link": {
+    "x":                      "Optional X/Twitter link",
+    "discord":                "Optional Discord link",
+    "reddit":                  "Optional Reddit link",
+    "telegram":                "Optional Telegram link",
+    "github":                  "Optional Github link",
+    "medium":                  "Optional Medium link",
+    "forum":                   "Optional Forum link",
+    "linkedin":                "Optional LinkedIn link",
+    "youtube":                 "Optional Youtube link",
+    "facebook":                "Optional Facebook link",
+    "linktree":                "Optional Linktree link",
+    "website":                 "Optional Website link",
+    "documentation":           "Optional Documentation link"
+  }
+
 }
