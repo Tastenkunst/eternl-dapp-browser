@@ -20,5 +20,5 @@
     "github":                 "https://github.com/cardania"
   },
 
-  "extensions":               [{ "cip": 30 }],
+  "extensions":               [{ "cip": 30 }]
 }
